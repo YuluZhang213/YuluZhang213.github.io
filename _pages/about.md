@@ -25,29 +25,29 @@ redirect_from:
 
 
 # 📚Technical Proficiencies
-- Software: UGNX10.0, SolidWorks, Keil uVision4, Keil uVision5, STM32CubeMX, RobotStudio, Altium Designer, Proteus
-- Programming Language: Python, C, VB (Visual Basic), MySQL
-- Practical Application: Additive Manufacturing, Embedded System Design, Circuit Board Welding, Lathe Machining
+- *Software*: UGNX10.0, SolidWorks, Keil uVision4, Keil uVision5, STM32CubeMX, RobotStudio, Altium Designer, Proteus
+- *Programming Language*: Python, C, VB (Visual Basic), MySQL
+- *Practical Application*: Additive Manufacturing, Embedded System Design, Circuit Board Welding, Lathe Machining
 
 
 
 # 🔗Research Project
 **Research on Deep Learning-Based Unmanned Image Enhancement Techniques** 
 
-Person in charge of Data Collection and Processing
+*Person in charge of Data Collection and Processing*
 - The project develops unmanned intelligent image enhancement technology which aims to solve the problems of low quality and blurring of image images acquired by unmanned vehicles during travelling;
 - Using computer vision and deep learning algorithms, I analysed the causes of image degradation, data acquisition and processing, deep learning model design and optimisation, as well as image enhancement algorithm development and implementation on image data acquired by driverless cars.
 
 **Elevated Landscaping Project** 
 
-Organised by Ningbo Runyi Steel Structure Co. Ltd and Ningbo Yinzhou Avenue Viaduct
+*Organised by Ningbo Runyi Steel Structure Co. Ltd and Ningbo Yinzhou Avenue Viaduct*
 - Helped design the anti-leakage assembly structure of the flower box;
 - Designed the flower box structure with good assembly stability with the viaduct guardrail, including an automatic watering and drainage system. The anti-leakage assembly effectively prevents water from draining out through the assembly holes and prolongs the service life of the fasteners;
 - The design is currently applying for utility models and design patents.
 
 **Intelligent Book Sorter Based on Binocular Vision**
 
-Code Writer and Model Trainer
+*Code Writer and Model Trainer*
 - By designing the control principle of the motion part and the control principle of the software part, this project aims to provide a fully automatic and intelligent book-sorting device;
 - Created the conveyor running system as a multi-rod side-by-side connection;
 - Designed the lifting system as a double platform, with the loading table separated from the sorting table. Controlled by the electric control system, the system is realised by two screw motors rotating to drive the platform up and down;
@@ -58,18 +58,15 @@ Code Writer and Model Trainer
 - Sent the detected temperature values and the set temperature upper and lower limits, respectively, to a 0.96" OLED screen and a computer for real-time display through serial communication;
 - Used the keypad for temperature adjustment. If the actual temperature exceeded the limit value, the system would alarm and activate the fan to cool down the temperature.
 
+**Beverage Delivery System Design**
+- Utilised RobotStudio to design beverage triple grippers for crating, palletising and forklift handling. Specifically, the crating robot gripped three bottles at a time and loaded them into crates, the crates were packed and transported via conveyor belts and then gripped for palletising, and finally, the forklift truck forked the pallets away;
+- Created and connected smart components for the conveyor belts, suction cups and triple grippers, and forklift, and designed the motion logic, and wrote the programme code to make the robot move.
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internship Experience
+*2022.07 - 2022.08*, **Konecranes (Shanghai) Company, Ltd., Xiamen Branch, Xiamen, China**
