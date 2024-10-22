@@ -32,18 +32,21 @@ redirect_from:
 
 
 # 🔗Research Project
+**Research on Deep Learning-Based Unmanned Image Enhancement Techniques** 
 
-**Person in charge of Data Collection and Processing**
+Person in charge of Data Collection and Processing
 - The project develops unmanned intelligent image enhancement technology which aims to solve the problems of low quality and blurring of image images acquired by unmanned vehicles during travelling;
 - Using computer vision and deep learning algorithms, I analysed the causes of image degradation, data acquisition and processing, deep learning model design and optimisation, as well as image enhancement algorithm development and implementation on image data acquired by driverless cars.
 
-**Elevated Landscaping Project**
+**Elevated Landscaping Project** 
+
 Organised by Ningbo Runyi Steel Structure Co. Ltd and Ningbo Yinzhou Avenue Viaduct
 - Helped design the anti-leakage assembly structure of the flower box;
 - Designed the flower box structure with good assembly stability with the viaduct guardrail, including an automatic watering and drainage system. The anti-leakage assembly effectively prevents water from draining out through the assembly holes and prolongs the service life of the fasteners;
 - The design is currently applying for utility models and design patents.
 
 **Intelligent Book Sorter Based on Binocular Vision**
+
 Code Writer and Model Trainer
 - By designing the control principle of the motion part and the control principle of the software part, this project aims to provide a fully automatic and intelligent book-sorting device;
 - Created the conveyor running system as a multi-rod side-by-side connection;
