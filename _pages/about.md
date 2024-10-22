@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 🎓 Education
-- *2024.09-2025.09（expected）*: &nbsp; the University of Manchester 
+- *2024.09-2025.09(expected)*: &nbsp; the University of Manchester 
 - *2020.09-2024.07*: &nbsp; Shangdong University of Science and Technology, Qingdao, China
 
 
@@ -103,5 +103,5 @@ redirect_from:
 - *2021.10*, &nbsp; **Outstanding Volunteer of National College Students Emergency Rescue Knowledge and Skills Drill**
 - *2021.10*, &nbsp; **Outstanding Volunteer of Pay Tribute to "China Doctor" National College Youth Propaganda Volunteer Activity**
 - *2021.09*, &nbsp; **Outstanding Volunteer of Youth Voluntary Activity for UN Food System Summit**
-- *2020.12*, &nbsp; **Volunteer Certificate for “Unite the Force for Good” Fundraising Activity organized by China Foundation for Poverty Alleviation (CFPA) **
-&nbsp; 
+- *2020.12*, &nbsp; **Volunteer Certificate for “Unite the Force for Good” Fundraising Activity organized by China Foundation for Poverty Alleviation (CFPA) ** 
+
