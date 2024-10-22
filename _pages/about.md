@@ -33,8 +33,7 @@ redirect_from:
 
 # 🔗Research Project
 
- Research on Deep Learning-Based Unmanned Image Enhancement Techniques
- Person in charge of Data Collection and Processing
+1 Person in charge of Data Collection and Processing
 - The project develops unmanned intelligent image enhancement technology which aims to solve the problems of low quality and blurring of image images acquired by unmanned vehicles during travelling;
 - Using computer vision and deep learning algorithms, I analysed the causes of image degradation, data acquisition and processing, deep learning model design and optimisation, as well as image enhancement algorithm development and implementation on image data acquired by driverless cars.
 
