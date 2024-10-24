@@ -40,11 +40,15 @@ redirect_from:
 
 
 **Elevated Landscaping Project** 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/115618.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 &nbsp; *Organised by Ningbo Runyi Steel Structure Co. Ltd and Ningbo Yinzhou Avenue Viaduct*
 - Helped design the anti-leakage assembly structure of the flower box;
 - Designed the flower box structure with good assembly stability with the viaduct guardrail, including an automatic watering and drainage system. The anti-leakage assembly effectively prevents water from draining out through the assembly holes and prolongs the service life of the fasteners;
 - The design is currently applying for utility models and design patents.
+</div>
+</div>
+
 
 **Intelligent Book Sorter Based on Binocular Vision**
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/115618.png' alt="sym" width="100%"></div></div>
