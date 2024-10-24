@@ -39,7 +39,8 @@ redirect_from:
 **Deep Learning-based Image Enhancement for Unmanned Vehicles**  [PDF](assets/Research on Deep Learning-Based Unmanned Image Enhancement Techniques_20241024193739.pdf)
 
 &nbsp; *Project Members:&nbsp;  Fei Meng, **Yulu Zhang**, Haojie Yu, Jialin Gao, Chuanxiang Gao, Xinyi Lv*
-&nbsp; *Person in charge of Data Collection and Processing*
+
+&nbsp; *Yulu Zhang:&nbsp;Person in charge of Data Collection and Processing*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1122.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - The project develops unmanned intelligent image enhancement technology which aims to solve the problems of low quality and blurring of image images acquired by unmanned vehicles during travelling;
@@ -52,7 +53,7 @@ redirect_from:
 
 &nbsp; *Project Members:&nbsp;  Haojie Yu, Wenyuan Shen, **Yulu Zhang**, Tengjun Jiang, Zehao Xu*
 
-&nbsp; *Code Writer and Model Trainer*
+&nbsp; *Yulu Zhang:&nbsp;Code Writer and Model Trainer*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/115618.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - The project provides a fully automatic and intelligent book-sorting device;
@@ -63,7 +64,9 @@ redirect_from:
 </div>
 
 
-**Design of Sag Measurement System of High Voltage Line Based on RTK Positioning Technology**
+**Design of Sag Measurement System of High Voltage Line Based on RTK Positioning Technology**  [PDF](assets/Design of Sag Measurement System of High Voltage Line Based on RTK Positioning Technology.pdf)
+
+&nbsp; *Yulu Zhang*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1111.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - A sag measurement system of high voltage line based on RTK is designed with a line inspection robot as the carrier.
@@ -74,6 +77,8 @@ redirect_from:
 
 
 **Designing Visual Sorting Robot Based on RobotStudio for Target Recognition and Grasping**
+
+&nbsp; *Yulu Zhang*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1133.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - Design a conveyor line using RobotStudio and implement object grasping and recognition.
