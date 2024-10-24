@@ -35,6 +35,16 @@ redirect_from:
 
 # 🔗 Research Project
 
+**Design of Sag Measurement System of High Voltage Line Based on RTK Positioning Technology**
+<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1111.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- A sag measurement system of high voltage line based on RTK is designed with a line inspection robot as the carrier.
+- Through the hanging chain line model and parabolic model, the maximum point of arc droop and the maximum value of arc droop are analyzed, and the parabolic deformation under the centralized load is taken into account to realize the error correction of the maximum value of arc droop.
+- A set of user interaction interface based on PyQt5 was designed in Python.
+</div>
+</div>
+
+
 **Research on Deep Learning-Based Unmanned Image Enhancement Techniques** 
 
 &nbsp; *Person in charge of Data Collection and Processing*
