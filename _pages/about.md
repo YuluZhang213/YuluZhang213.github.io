@@ -18,7 +18,7 @@ redirect_from:
 
 # 🗒 About Me
 - I graduated from Shandong University of Science and Technology with a bachelor's degree in Intelligent Manufacturing Engineering. 
-- Now I'm studying for a master's degree in robotics at the University of Manchester. [PDF](https://github.com/YuluZhang213/YuluZhang213.github.io/blob/main/assets/file/Resume.pdf)
+- Now I'm studying for a master's degree in robotics at the University of Manchester. [PDF](assets/file/Resume.pdf)
 
 # 🎓 Education
 - *2024.09-2025.09(expected)*: &nbsp; the University of Manchester 
