@@ -16,8 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-# 🗒 About Me
-[CV](assets/Resume.pdf)
+# 🗒 About Me  [CV](assets/Resume.pdf)
 - I graduated from Shandong University of Science and Technology with a bachelor's degree in Intelligent Manufacturing Engineering. 
 - Now I'm studying for a master's degree in robotics at the University of Manchester. 
 
@@ -37,7 +36,7 @@ redirect_from:
 # 🔗 Research Project
 
 
-**Deep Learning-based Image Enhancement for Unmanned Vehicles** [PDF](assets/Research on Deep Learning-Based Unmanned Image Enhancement Techniques_20241024193739.pdf)
+**Deep Learning-based Image Enhancement for Unmanned Vehicles**  [PDF](assets/Research on Deep Learning-Based Unmanned Image Enhancement Techniques_20241024193739.pdf)
 
 &nbsp; *Project Members:&nbsp;  Fei Meng, **Yulu Zhang**, Haojie Yu, Jialin Gao, Chuanxiang Gao, Xinyi Lv*
 &nbsp; *Person in charge of Data Collection and Processing*
@@ -49,9 +48,10 @@ redirect_from:
 </div>
 
 
-**Multi-functional Conveyor Sorting Device Based on Book Information Processing** [PDF](assets/Multi-functional Conveyor Sorting Device Based on Book Information Processing.pdf)
+**Multi-functional Conveyor Sorting Device Based on Book Information Processing**  [PDF](assets/Multi-functional Conveyor Sorting Device Based on Book Information Processing.pdf)
 
 &nbsp; *Project Members:&nbsp;  Haojie Yu, Wenyuan Shen, **Yulu Zhang**, Tengjun Jiang, Zehao Xu*
+
 &nbsp; *Code Writer and Model Trainer*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/115618.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
