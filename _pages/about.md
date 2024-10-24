@@ -33,8 +33,9 @@ redirect_from:
 
 # 🔗 Research Project
 
-&nbsp; *Person in charge of Data Collection and Processing*
 **Research on Deep Learning-Based Unmanned Image Enhancement Techniques** 
+
+&nbsp; *Person in charge of Data Collection and Processing*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1122.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - The project develops unmanned intelligent image enhancement technology which aims to solve the problems of low quality and blurring of image images acquired by unmanned vehicles during travelling;
@@ -48,7 +49,7 @@ redirect_from:
 &nbsp; *Code Writer and Model Trainer*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/115618.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-- This project provides a fully automatic and intelligent book-sorting device;
+- The project provides a fully automatic and intelligent book-sorting device;
 - Created the conveyor running system as a multi-rod side-by-side connection;
 - Designed the lifting system as a double platform, with the loading table separated from the sorting table. The electric control system is realised by two screw motors rotating to drive the platform up and down;
 - Designed the QR code of the books by using the image acquisition system, using the external colour and positioning sensors, and communicating with the main control microcontroller through the serial port.
@@ -57,7 +58,7 @@ redirect_from:
 
 
 **Designing Visual Sorting Robot Based on RobotStudio for Target Recognition and Grasping**
-<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1133jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1133.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - Design a conveyor line using RobotStudio and implement object grasping and recognition.
 - The robot grips objects on the conveyor line, identifies objects of different colors and places them on the corresponding conveyor belt.
