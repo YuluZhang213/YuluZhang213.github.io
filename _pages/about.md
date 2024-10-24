@@ -56,9 +56,9 @@ redirect_from:
 &nbsp; *Code Writer and Model Trainer*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/115618.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-- This project aims to provide a fully automatic and intelligent book-sorting device;
+- This project provides a fully automatic and intelligent book-sorting device;
 - Created the conveyor running system as a multi-rod side-by-side connection;
-- Designed the lifting system as a double platform, with the loading table separated from the sorting table. Controlled by the electric control system, the system is realised by two screw motors rotating to drive the platform up and down;
+- Designed the lifting system as a double platform, with the loading table separated from the sorting table. Controlled by the electric control system which is realised by two screw motors rotating to drive the platform up and down;
 - Designed the QR code of the books by using the image acquisition system, using the external colour and positioning sensors, and communicating with the main control microcontroller through the serial port.
 </div>
 </div>
