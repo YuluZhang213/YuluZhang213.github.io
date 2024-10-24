@@ -38,12 +38,14 @@ redirect_from:
 - The project develops unmanned intelligent image enhancement technology which aims to solve the problems of low quality and blurring of image images acquired by unmanned vehicles during travelling;
 - Using computer vision and deep learning algorithms, I analysed the causes of image degradation, data acquisition and processing, deep learning model design and optimisation, as well as image enhancement algorithm development and implementation on image data acquired by driverless cars.
 
+</div><img src='images/115618.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **Elevated Landscaping Project** 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/115618.png' alt="sym" width="100%"></div></div>
 &nbsp; *Organised by Ningbo Runyi Steel Structure Co. Ltd and Ningbo Yinzhou Avenue Viaduct*
 - Helped design the anti-leakage assembly structure of the flower box;
 - Designed the flower box structure with good assembly stability with the viaduct guardrail, including an automatic watering and drainage system. The anti-leakage assembly effectively prevents water from draining out through the assembly holes and prolongs the service life of the fasteners;
 - The design is currently applying for utility models and design patents.
+</div>
 
 **Intelligent Book Sorter Based on Binocular Vision**
 
