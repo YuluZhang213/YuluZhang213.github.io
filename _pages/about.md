@@ -18,7 +18,7 @@ redirect_from:
 
 # 🗒 About Me
 - I graduated from Shandong University of Science and Technology with a bachelor's degree in Intelligent Manufacturing Engineering. 
-- Now I'm studying for a master's degree in robotics at the University of Manchester. [PDF](assets/file/Resume.pdf)
+- Now I'm studying for a master's degree in robotics at the University of Manchester. [CV](assets/Resume.pdf)
 
 # 🎓 Education
 - *2024.09-2025.09(expected)*: &nbsp; the University of Manchester 
@@ -35,19 +35,11 @@ redirect_from:
 
 # 🔗 Research Project
 
-**Design of Sag Measurement System of High Voltage Line Based on RTK Positioning Technology**
-<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1111.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-- A sag measurement system of high voltage line based on RTK is designed with a line inspection robot as the carrier.
-- Through the hanging chain line model and parabolic model, the maximum point of arc droop and the maximum value of arc droop are analyzed, and the parabolic deformation under the centralized load is taken into account to realize the error correction of the maximum value of arc droop.
-- A set of user interaction interface based on PyQt5 was designed in Python.
-</div>
-</div>
 
-
-**Research on Deep Learning-Based Unmanned Image Enhancement Techniques** 
-
+**Deep Learning-based Image Enhancement for Unmanned Vehicles** 
+&nbsp; *Project Members:&nbsp;  Fei Meng, **Yulu Zhang**, Haojie Yu, Jialin Gao, Chuanxiang Gao, Xinyi Lv*
 &nbsp; *Person in charge of Data Collection and Processing*
+[PDF](assets/Research on Deep Learning-Based Unmanned Image Enhancement Techniques_20241024193739.pdf)
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1122.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - The project develops unmanned intelligent image enhancement technology which aims to solve the problems of low quality and blurring of image images acquired by unmanned vehicles during travelling;
@@ -56,15 +48,26 @@ redirect_from:
 </div>
 
 
-**Intelligent Book Sorter Based on Binocular Vision**
+**Multi-functional Conveyor Sorting Device Based on Book Information Processing**
 
 &nbsp; *Code Writer and Model Trainer*
+[PDF](assets/Multi-functional Conveyor Sorting Device Based on Book Information Processing.pdf)
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/115618.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - The project provides a fully automatic and intelligent book-sorting device;
 - Created the conveyor running system as a multi-rod side-by-side connection;
 - Designed the lifting system as a double platform, with the loading table separated from the sorting table. The electric control system is realised by two screw motors rotating to drive the platform up and down;
 - Designed the QR code of the books by using the image acquisition system, using the external colour and positioning sensors, and communicating with the main control microcontroller through the serial port.
+</div>
+</div>
+
+
+**Design of Sag Measurement System of High Voltage Line Based on RTK Positioning Technology**
+<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1111.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- A sag measurement system of high voltage line based on RTK is designed with a line inspection robot as the carrier.
+- Through the hanging chain line model and parabolic model, the maximum point of arc droop and the maximum value of arc droop are analyzed, and the parabolic deformation under the centralized load is taken into account to realize the error correction of the maximum value of arc droop.
+- A set of user interaction interface based on PyQt5 was designed in Python.
 </div>
 </div>
 
