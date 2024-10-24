@@ -40,7 +40,7 @@ redirect_from:
 
 &nbsp; *Project Members:&nbsp;  Fei Meng, **Yulu Zhang**, Haojie Yu, Jialin Gao, Chuanxiang Gao, Xinyi Lv*
 
-&nbsp; *Yulu Zhang:&nbsp;Person in charge of Data Collection and Processing*
+&nbsp; *Yulu Zhang:&nbsp;Person in Charge of Data Collection and Processing*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1122.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - The project develops unmanned intelligent image enhancement technology which aims to solve the problems of low quality and blurring of image images acquired by unmanned vehicles during travelling;
