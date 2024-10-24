@@ -16,7 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+I graduated from Shandong University of Science and Technology with a bachelor's degree in Intelligent Manufacturing Engineering. 
+Now I'm studying for a master's degree in robotics at the University of Manchester.
 
 # 🎓 Education
 - *2024.09-2025.09(expected)*: &nbsp; the University of Manchester 
