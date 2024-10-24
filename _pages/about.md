@@ -40,15 +40,14 @@ redirect_from:
 
 
 **Elevated Landscaping Project** 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/115618.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 &nbsp; *Organised by Ningbo Runyi Steel Structure Co. Ltd and Ningbo Yinzhou Avenue Viaduct*
 - Helped design the anti-leakage assembly structure of the flower box;
 - Designed the flower box structure with good assembly stability with the viaduct guardrail, including an automatic watering and drainage system. The anti-leakage assembly effectively prevents water from draining out through the assembly holes and prolongs the service life of the fasteners;
 - The design is currently applying for utility models and design patents.
-</div>
-</div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/115618.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **Intelligent Book Sorter Based on Binocular Vision**
 
 &nbsp; *Code Writer and Model Trainer*
@@ -56,6 +55,9 @@ redirect_from:
 - Created the conveyor running system as a multi-rod side-by-side connection;
 - Designed the lifting system as a double platform, with the loading table separated from the sorting table. Controlled by the electric control system, the system is realised by two screw motors rotating to drive the platform up and down;
 - Designed the QR code of the books by using the image acquisition system, using the external colour and positioning sensors, and communicating with the main control microcontroller through the serial port.
+</div>
+</div>
+
 
 **Integrated Temperature Measurement and Control System Design**
 - Designed an integrated temperature measurement and control system using the Nucleo-F103RB development board, detected the ambient temperature using DHT11, and digitally filtered the detected data;
