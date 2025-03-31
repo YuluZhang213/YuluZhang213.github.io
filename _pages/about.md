@@ -47,10 +47,10 @@ redirect_from:
 </div>
 
 
-**Research on Sustainable Robotic Systems**  [VIDEO](assets/a Study on the Characterisation of the SLAMTEC RPLIDAR A2M12 Lidar Unit.mp4)
+**Study on the Characterisation of the SLAMTEC RPLIDAR A2M12 Lidar Unit**  [VIDEO](assets/a Study on the Characterisation of the SLAMTEC RPLIDAR A2M12 Lidar Unit.mp4)
 
 &nbsp; *Yulu Zhang*
-<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/SDGs.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/RPLIDAR.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - This video analyzes robotics and the UN Sustainable Development Goals(SDGs) in detail.
 - Combining robotics with the SDGs and presenting the opportunities, challenges and ethical issues that arise.
