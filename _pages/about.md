@@ -47,6 +47,17 @@ redirect_from:
 </div>
 
 
+**Research on Sustainable Robotic Systems**  [VIDEO](assets/a Study on the Characterisation of the SLAMTEC RPLIDAR A2M12 Lidar Unit.mp4)
+
+&nbsp; *Yulu Zhang*
+<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/SDGs.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- This video analyzes robotics and the UN Sustainable Development Goals(SDGs) in detail.
+- Combining robotics with the SDGs and presenting the opportunities, challenges and ethical issues that arise.
+</div>
+</div>
+
+
 **Deep Learning-based Image Enhancement for Unmanned Vehicles**  [PDF](assets/Research on Deep Learning-Based Unmanned Image Enhancement Techniques_20241024193739.pdf)
 
 &nbsp; *Project Members:&nbsp;  Fei Meng, **Yulu Zhang**, Haojie Yu, Jialin Gao, Chuanxiang Gao, Xinyi Lv*
