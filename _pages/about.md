@@ -36,14 +36,13 @@ redirect_from:
 # 🔗 Research Project
 
 
-**Robotic Systems for Sustainable Development**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
+**Research on Sustainable Robotic Systems**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
 
 &nbsp; *Yulu Zhang*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1111.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-- A sag measurement system of high voltage line based on RTK is designed with a line inspection robot as the carrier.
-- Through the hanging chain line model and parabolic model, the maximum point of arc droop and the maximum value of arc droop are analyzed, and the parabolic deformation under the centralized load is taken into account to realize the error correction of the maximum value of arc droop.
-- A set of user interaction interface based on PyQt5 was designed in Python.
+- This video analyzes robotics and the UN Sustainable Development Goals(SDGs) in detail.
+- Combining robotics with the SDGs and presenting the opportunities, challenges and ethical issues that arise.
 </div>
 </div>
 
