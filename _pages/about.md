@@ -52,8 +52,9 @@ redirect_from:
 &nbsp; *Yulu Zhang*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/RPLIDAR.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-- This video analyzes robotics and the UN Sustainable Development Goals(SDGs) in detail.
-- Combining robotics with the SDGs and presenting the opportunities, challenges and ethical issues that arise.
+- This video describes the working principle and experimental methodology of the SLAMTEC RPLIDAR A2M12.
+- The specific data of this LIDAR at different detection distances (1-5 meters) are listed. The errors are thus analyzed to determine the detection performance of this LIDAR. In addition, the minimum and maximum distances that can be detected by this lidar were measured.
+- Furthermore, the spot sizes of this lidar at different distances were listed. From this, the beam divergence angle and angular resolution were derived. The detection performance of the lidar was further determined.
 </div>
 </div>
 
