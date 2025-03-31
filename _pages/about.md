@@ -36,7 +36,7 @@ redirect_from:
 # 🔗 Research Project
 
 
-**Design of Sag Measurement System of High Voltage Line Based on RTK Positioning Technology**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
+**Robotic Systems for Sustainable Development**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
 
 &nbsp; *Yulu Zhang*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/1111.png' alt="sym" width="100%"></div>
