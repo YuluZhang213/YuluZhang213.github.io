@@ -36,22 +36,21 @@ redirect_from:
 # 🔗 Research Project
 
 
-**Robotic Systems Design Project**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
+**Robotic Systems Design Project**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)[CODE](https://github.com/YuluZhang213/Robotic-Systems-Design-Project)
 
-&nbsp; *Project Members:&nbsp;  Haoran Yan, **Yulu Zhang**, Changda Lv, *
+&nbsp; *Project Members:&nbsp;  Haoran Yan, **Yulu Zhang**, Changda Lv, Hisham*
 
 &nbsp; *Yulu Zhang:&nbsp;Responsible for Navigation and Mapping*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/SDGs.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-- This video analyzes robotics and the UN Sustainable Development Goals(SDGs) in detail.
-- Combining robotics with the SDGs and presenting the opportunities, challenges and ethical issues that arise.
+- Developing a robotic system using LeoRover. To enable robots to automatically navigate and map unknown environments, recognize target objects and grasp them.
 </div>
 </div>
 
 
 **a Feedback Control Algorithm for Position Stabilisation of an Unmanned Aerial System(UAS)**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
 
-&nbsp; *Project Members:&nbsp;  , **Yulu Zhang**, , *
+&nbsp; *Project Members:&nbsp;  Zihan Yue, **Yulu Zhang**, Guoqing Zhao, Conlan *
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/SDGs.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
