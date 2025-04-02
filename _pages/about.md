@@ -36,7 +36,7 @@ redirect_from:
 # 🔗 Research Project
 
 
-**Robotic Systems Design Project**  [VIDEO](assets/navigation.mp4) &nbsp; [CODE](https://github.com/YuluZhang213/Robotic-Systems-Design-Project)
+**Robotic Systems Design Project**  [PDF](assets/Final_Design_Review.pdf) &nbsp; [VIDEO](assets/navigation.mp4) &nbsp; [CODE](https://github.com/Haoran-01/team3-project)
 
 &nbsp; *Project Members:&nbsp;  Haoran Yan, **Yulu Zhang**, Changda Lv, Hisham*
 
