@@ -36,6 +36,41 @@ redirect_from:
 # 🔗 Research Project
 
 
+**Robotic Systems Design Project**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
+
+&nbsp; *Project Members:&nbsp;  Haoran Yan, **Yulu Zhang**, Changda Lv, *
+
+&nbsp; *Yulu Zhang:&nbsp;Responsible for Navigation and Mapping*
+<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/SDGs.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- This video analyzes robotics and the UN Sustainable Development Goals(SDGs) in detail.
+- Combining robotics with the SDGs and presenting the opportunities, challenges and ethical issues that arise.
+</div>
+</div>
+
+
+**a Feedback Control Algorithm for Position Stabilisation of an Unmanned Aerial System(UAS)**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
+
+&nbsp; *Project Members:&nbsp;  , **Yulu Zhang**, , *
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/SDGs.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- Creating a cascading PID algorithm capable of reading data from position/attitude/velocity feedback sensors, performing the necessary coordinate transformations, calculating execution commands, and sending them to the UAS platform to achieve a specified position.
+- The cascade PID algorithm is first developed and tested in a simulator. The method is then tested on a real UAS.
+</div>
+</div>
+
+
+**Path Planning Using the A* Algorithm**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
+
+&nbsp; *Yulu Zhang*
+<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/SDGs.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+- A Python3 script function which implements the A* path planning algorithm as a function within the user interface program.
+</div>
+</div>
+
+
 **Research on Sustainable Robotic Systems**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
 
 &nbsp; *Yulu Zhang*
