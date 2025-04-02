@@ -39,9 +39,9 @@ redirect_from:
 **Robotic Systems Design Project**  [PDF](assets/Final_Design_Review.pdf) &nbsp; [VIDEO](assets/navigation.mp4) &nbsp; [CODE](https://github.com/Haoran-01/team3-project)
 
 &nbsp; *Project Members:&nbsp;  Haoran Yan, **Yulu Zhang**, Changda Lv, Hisham*
-
+ &nbsp;
 &nbsp; *Yulu Zhang:&nbsp;Responsible for Navigation and Mapping*
-<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/SDGs.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/leo.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - Developing a robotic system using LeoRover. To enable robots to automatically navigate and map unknown environments, recognize target objects and grasp them.
 </div>
@@ -60,10 +60,10 @@ redirect_from:
 </div>
 
 
-**Path Planning Using the A* Algorithm**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
+**Path Planning Using the A* Algorithm**  [VIDEO](assets/path planning.webm) &nbsp; [CODE](https://github.com/YuluZhang213/path-planning)
 
 &nbsp; *Yulu Zhang*
-<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/SDGs.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/path planning.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - A Python3 script function which implements the A* path planning algorithm as a function within the user interface program.
 </div>
