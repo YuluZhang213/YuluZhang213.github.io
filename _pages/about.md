@@ -48,11 +48,11 @@ redirect_from:
 </div>
 
 
-**a Feedback Control Algorithm for Position Stabilisation of an Unmanned Aerial System(UAS)**  [VIDEO](assets/Robotic Systems for Sustainable Development.mp4)
+**a Feedback Control Algorithm for Position Stabilisation of an Unmanned Aerial System(UAS)**  [VIDEO](assets/feedback control.webm) &nbsp; [CODE](https://github.com/YuluZhang213/Feedback-Control)
 
 &nbsp; *Project Members:&nbsp;  Zihan Yue, **Yulu Zhang**, Guoqing Zhao, Conlan *
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/SDGs.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/feedback control.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - Creating a cascading PID algorithm capable of reading data from position/attitude/velocity feedback sensors, performing the necessary coordinate transformations, calculating execution commands, and sending them to the UAS platform to achieve a specified position.
 - The cascade PID algorithm is first developed and tested in a simulator. The method is then tested on a real UAS.
