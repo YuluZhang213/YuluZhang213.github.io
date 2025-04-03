@@ -50,7 +50,7 @@ redirect_from:
 
 **a Feedback Control Algorithm for Position Stabilisation of an Unmanned Aerial System(UAS)**  [VIDEO](assets/feedback control.webm) &nbsp; [CODE](https://github.com/YuluZhang213/Feedback-Control)
 
-&nbsp; *Project Members:&nbsp;  Zihan Yue, **Yulu Zhang**, Guoqing Zhao, Conlan *
+&nbsp; *Project Members:&nbsp;  Zihan Yue, **Yulu Zhang**, Guoqing Zhao, Conlan*
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/feedback control.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
