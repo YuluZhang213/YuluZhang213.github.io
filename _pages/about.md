@@ -39,7 +39,7 @@ redirect_from:
 **Robotic Systems Design Project**  [PDF](assets/Final_Design_Review.pdf) &nbsp; [VIDEO](assets/navigation.mp4) &nbsp; [CODE](https://github.com/Haoran-01/team3-project)
 
 &nbsp; *Project Members:&nbsp;  Haoran Yan, **Yulu Zhang**, Changda Lv, Hisham*
- &nbsp;
+
 &nbsp; *Yulu Zhang:&nbsp;Responsible for Navigation and Mapping*
 <div class='paper-box'><div class='paper-box-image'><div class="badge"></div><img src='images/leo.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
